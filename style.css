@@ -1,0 +1,65 @@
+.first-line{
+    font-family: "Lavishly Yours", cursive;
+    font-weight:400px;
+    font-size: 80px;
+    padding:0px;
+    margin:0px;
+}
+.dreams{
+  font-family: "Holtwood One SC", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 80px;
+  margin:0px;
+    padding:0px;
+}
+.can{
+    font-family: "Lavishly Yours", cursive;
+    font-weight:400px;
+    font-size: 80px;
+    margin:0px; 
+    padding:0px;
+}
+.if{
+     font-family: "Pirata One", system-ui;
+     font-weight: 400;
+     font-style: normal;
+     font-size:80px;
+     margin:0px;
+    padding:0px;
+    background-color: black;
+    color:white
+}
+.courage{
+    font-family: "Ribeye Marrow", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    margin:0px;
+    padding:0px;
+    text-transform: uppercase;
+}
+.to{
+    font-family: "Almendra SC", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    margin:0px;
+    padding:0px;
+}
+.---{
+     font-family: "Pirata One", system-ui;
+     font-weight: 400;
+     font-style: normal;
+     font-size: 80px;
+     margin:0px;
+     padding:0px;
+}
+.Walt{
+  font-family: "Lavishly Yours", cursive;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 60px;
+    margin:0px;
+    padding:0px;
+}
