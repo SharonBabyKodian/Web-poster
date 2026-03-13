@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(182, 141, 141);
+}
 .first-line{
     font-family: "Lavishly Yours", cursive;
     font-weight:400px;
@@ -62,4 +65,5 @@
     font-size: 60px;
     margin:0px;
     padding:0px;
+
 }
